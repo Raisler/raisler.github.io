@@ -1,8 +1,8 @@
-title: Stack Problems
+title: Blog
 description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+author: Raisler Voigt
+github: https://github.com/raisler
+about: I'm problem solver in data field
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -15,28 +15,16 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/raisler-voigt7/?locale=en_US"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
-
-share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+      link: "https://github.com/raisler"
 
 urls:
     - text: About Me
       url: /about/
     - text: My Projects
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
 
 url: "https://raisler.github.io"
 baseurl: ""
