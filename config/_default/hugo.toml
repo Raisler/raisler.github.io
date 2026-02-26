@@ -67,3 +67,9 @@ enableEmoji = true
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+
+[[menu.main]]
+    name = "Thoughts"
+    url = "/thoughts/"
+    weight = 3
